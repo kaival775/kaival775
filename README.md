@@ -1,18 +1,21 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 0;">
-    <h2>💫 About Me:</h2>
-    <p>
-      🔥 Meet Kaivalya Sonawane<br>
-      🚀 A tech enthusiast chasing curiosity across code, cloud, and creativity.<br>
-      💻 I'm a Computer Engineering student, passionate about Full Stack Development, currently deep-diving into the MERN stack and evolving toward a DevOps mindset.<br>
-      🤖 I’m also captivated by the power of AI — not just as a buzzword, but as a daily companion through tools that boost productivity, creativity, and code quality.<br>
-      🧠 Whether it's building web apps, exploring open-source, or automating tasks with AI tools, I love creating things that feel like magic.
-    </p>
-  </div>
-  <div style="flex-shrink: 0; width: 190px;">
-    <img src="https://i.pinimg.com/originals/d9/f6/b7/d9f6b7bed716e54bf9ee96f74da84c14.gif" alt="Luffy GIF" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="padding-left: 15px; vertical-align: middle; border: none; width: 70%;">
+      <h2>💫 About Me:</h2>
+      <p>
+        🔥 Meet Kaivalya Sonawane<br>
+        🚀 A tech enthusiast chasing curiosity across code, cloud, and creativity.<br>
+        💻 I'm a Computer Engineering student, passionate about Full Stack Development, currently deep-diving into the MERN stack and evolving toward a DevOps mindset.<br>
+        🤖 I’m also captivated by the power of AI — not just as a buzzword, but as a daily companion through tools that boost productivity, creativity, and code quality.<br>
+        🧠 Whether it's building web apps, exploring open-source, or automating tasks with AI tools, I love creating things that feel like magic.
+      </p>
+    </td>
+    <td style="width: 30%; vertical-align: middle; text-align: center; border: none; padding-left: 20px;">
+      <img src="https://i.pinimg.com/originals/d9/f6/b7/d9f6b7bed716e54bf9ee96f74da84c14.gif" alt="Luffy GIF" style="max-width: 180px; height: auto; display: block; margin: 0 auto;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
