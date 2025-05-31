@@ -1,6 +1,6 @@
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="padding-left: 15px; vertical-align: middle; border: none; width: 70%;">
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
       <h2>💫 About Me:</h2>
       <p>
         🔥 Meet Kaivalya Sonawane<br>
@@ -10,11 +10,13 @@
         🧠 Whether it's building web apps, exploring open-source, or automating tasks with AI tools, I love creating things that feel like magic.
       </p>
     </td>
-    <td style="width: 30%; vertical-align: middle; text-align: center; border: none; padding-left: 20px;">
-      <img src="https://i.pinimg.com/originals/d9/f6/b7/d9f6b7bed716e54bf9ee96f74da84c14.gif" alt="Luffy GIF" style="max-width: 180px; height: auto; display: block; margin: 0 auto;" />
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="https://i.pinimg.com/originals/d9/f6/b7/d9f6b7bed716e54bf9ee96f74da84c14.gif" alt="Luffy GIF" width="190" />
     </td>
   </tr>
 </table>
+
+
 
 
 
