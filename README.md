@@ -1,27 +1,9 @@
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <h2>💫 About Me:</h2>
-      <p>
-        🔥 Meet Kaivalya Sonawane<br>
-        🚀 A tech enthusiast chasing curiosity across code, cloud, and creativity.<br>
-        💻 I'm a Computer Engineering student, passionate about Full Stack Development, currently deep-diving into the MERN stack and evolving toward a DevOps mindset.<br>
-        🤖 I’m also captivated by the power of AI — not just as a buzzword, but as a daily companion through tools that boost productivity, creativity, and code quality.<br>
-        🧠 Whether it's building web apps, exploring open-source, or automating tasks with AI tools, I love creating things that feel like magic.
-      </p>
-    </td>
-    <td style="vertical-align: middle; text-align: center;">
-      <img src="https://i.pinimg.com/originals/d9/f6/b7/d9f6b7bed716e54bf9ee96f74da84c14.gif" alt="Luffy GIF" width="190" />
-    </td>
-  </tr>
-</table>
 
-
-
-
-
-
-
+## 💫 About Me:
+🔥 Meet Kaivalya Sonawane<br>
+🚀 A tech enthusiast chasing curiosity across code, cloud, and creativity.<br>
+💻 I'm a Computer Engineering student, passionate about Full Stack Development, currently deep-diving into the MERN stack and evolving toward a DevOps mindset.<br>
+🧠 Whether it's building web apps, exploring open-source, or automating tasks with AI tools, I love creating things that feel like magic.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaivalya-sonawane-938324325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaivalya775@gmail.com) 
 
