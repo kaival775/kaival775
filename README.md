@@ -2,7 +2,7 @@
 ## 💫 About Me:
 🔥 Meet Kaivalya Sonawane<br>
 🚀 A tech enthusiast chasing curiosity across code, cloud, and creativity.<br>
-💻 I'm a Computer Engineering student, passionate about Full Stack Development, currently deep-diving into the MERN stack and evolving toward a DevOps mindset.<br>
+💻 I'm a CSE student, passionate about Full Stack Development, currently deep-diving into the MERN stack and evolving toward a DevOps mindset.<br>
 🧠 Whether it's building web apps, exploring open-source, or automating tasks with AI tools, I love creating things that feel like magic.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaivalya-sonawane-938324325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaivalya775@gmail.com) 
